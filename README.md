@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souhailblmn&label=Profile%20views&color=0e75b6&style=flat" alt="souhailblmn" /> </p>
 
-- 🔭 I’m currently working on **my portfolio 2.0**
+- 🔭 I’m currently working on **CanopusX**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at [souhailmedia.com](souhailmedia.com)
-
-- 📝 I regularly write articles on [souhailmedia.com](souhailmedia.com)
+- 👨‍💻 All of my services are available at [canopus.ma](canopus.cma)
 
 - 💬 Ask me about **Anything programming , IT and more**
 
-- 📫 How to reach me **souhail@souhailmedia.com**
+- 📫 How to reach me **souhail@canopus.ma**
 
-- 📄 Know about my experiences [souhailmedia.com](souhailmedia.com)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/souhail-blmn/)
 
 - ⚡ Fun fact **35% of the internet uses WordPress.**
 
